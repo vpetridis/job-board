@@ -70,6 +70,25 @@
             "6 years React experience",
             "HTML experience"
          ]
+      },
+      {
+         "id": 2,
+         "title": "Looking for a freelancer frontend dev",
+         "location": "Virginia, United States",
+         "tags": [
+            "Frontend",
+            "WebDev"
+         ],
+         "payment_verified": "true",
+         "experience": "Expert",
+         "salary": "$100-$110/hr",
+         "company_overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A unde autem laboriosam tenetur voluptatibus consequatur voluptate ab fuga eligendi repellat!",
+         "job_requirements": [
+            "4 years experience",
+            "Familiarity with RESTful APIs ",
+            "6 years React experience",
+            "HTML experience"
+         ]
       }
    ]
 }
