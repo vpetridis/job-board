@@ -1,0 +1,75 @@
+{
+   "filters": {
+      "location": [
+         {
+            "id": 1,
+            "title": "London"
+         },
+         {
+            "id": 2,
+            "title": "Barcelona"
+         },
+         {
+            "id": 3,
+            "title": "Athens"
+         },
+         {
+            "id": 4,
+            "title": "New York"
+         },
+         {
+            "id": 5,
+            "title": "Delhi"
+         },
+         {
+            "id": 6,
+            "title": "Moscow"
+         }
+      ],
+      "payment": [
+         {
+            "id": 1,
+            "title": "Verified"
+         },
+         {
+            "id": 2,
+            "title": "Unverified"
+         }
+      ],
+      "level": [
+         {
+            "id": 1,
+            "title": "Entry"
+         },
+         {
+            "id": 2,
+            "title": "Intermediate"
+         },
+         {
+            "id": 3,
+            "title": "Expert"
+         }
+      ]
+   },
+   "jobs": [
+      {
+         "id": 1,
+         "title": "Looking for a freelancer frontend dev",
+         "location": "Virginia, United States",
+         "tags": [
+            "Frontend",
+            "WebDev"
+         ],
+         "payment_verified": "true",
+         "experience": "Expert",
+         "salary": "$100-$110/hr",
+         "company_overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A unde autem laboriosam tenetur voluptatibus consequatur voluptate ab fuga eligendi repellat!",
+         "job_requirements": [
+            "4 years experience",
+            "Familiarity with RESTful APIs ",
+            "6 years React experience",
+            "HTML experience"
+         ]
+      }
+   ]
+}
