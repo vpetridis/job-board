@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# The project
+
+This is a work in progress so far. Find out a nice design from [codewell.cc](https://www.codewell.cc/challenges/workside-job-board--61333de6a383e41090a3d413) and tried to implement it with a local fake server. Optimizations will happen gradually and code splitting will begin after I have an mvp.
+
+The point of this challenge is to find out what working flow really suites my needs.
+
+## So far...
+I think using with really only the raw data and then heading over to styling is much better. Many webDevs try to do the opposite (including my self). This exercise tries to find out the optimal way to develop an SPA.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
