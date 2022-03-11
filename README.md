@@ -5,7 +5,7 @@ This is a work in progress so far. Find out a nice design from [codewell.cc](htt
 The point of this challenge is to find out what working flow really suites my needs.
 
 ## So far...
-I think using with really only the raw data and then heading over to styling is much better. Many webDevs try to do the opposite (including my self). This exercise tries to find out the optimal way to develop an SPA.
+I think developing with the raw data at first and then heading over to styling is much better. Many webDevs try to do the opposite (including my self). This exercise tries to find out the optimal way to develop an SPA.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
